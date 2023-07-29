@@ -1,0 +1,119 @@
+[23-May-2022 09:49:11 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/formatting.php on line 3221
+[23-May-2022 09:49:11 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/formatting.php:3226
+Stack trace:
+#0 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): wp_targeted_link_rel()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(189): WP_Hook->apply_filters()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/post.php(2846): apply_filters()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/post.php(2731): sanitize_post_field()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/post.php(4077): sanitize_post()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/post.php(4789): wp_insert_post()
+#6 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php(831): wp_update_post()
+#7 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/rest-api/class-wp-rest-server.php(1141): WP_REST_Posts_Controller->update_item()
+#8 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/rest-api/class-wp-rest-server.php(988): WP_REST_Server->respond_to_request()
+#9 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch()
+#10 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/rest-api.php(386): WP_REST_Server->serve_request()
+#11 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): rest_api_loaded()
+#12 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#13 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(522): WP_Hook->do_action()
+#14 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp.php(396): do_action_ref_array()
+#15 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp.php(758): WP->parse_request()
+#16 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/functions.php(1310): WP->main()
+#17 /home/eire9d2tu5pr/public_html/comptution.com/wp-blog-header.php(16): wp()
+#18 /home/eire9d2tu5pr/public_html/comptution.com/index.php(17): require('/home/eire9d2tu...')
+#19 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/formatting.php on line 3226
+[23-May-2022 09:49:30 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/formatting.php on line 3221
+[23-May-2022 09:49:30 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/formatting.php:3226
+Stack trace:
+#0 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): wp_targeted_link_rel()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(189): WP_Hook->apply_filters()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/post.php(2846): apply_filters()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/post.php(2731): sanitize_post_field()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/post.php(4077): sanitize_post()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/post.php(4789): wp_insert_post()
+#6 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php(226): wp_update_post()
+#7 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/rest-api/class-wp-rest-server.php(1141): WP_REST_Autosaves_Controller->create_item()
+#8 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/rest-api/class-wp-rest-server.php(988): WP_REST_Server->respond_to_request()
+#9 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch()
+#10 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/rest-api.php(386): WP_REST_Server->serve_request()
+#11 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): rest_api_loaded()
+#12 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#13 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(522): WP_Hook->do_action()
+#14 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp.php(396): do_action_ref_array()
+#15 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp.php(758): WP->parse_request()
+#16 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/functions.php(1310): WP->main()
+#17 /home/eire9d2tu5pr/public_html/comptution.com/wp-blog-header.php(16): wp()
+#18 /home/eire9d2tu5pr/public_html/comptution.com/index.php(17): require('/home/eire9d2tu...')
+#19 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/formatting.php on line 3226
+[24-May-2022 07:16:42 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/formatting.php on line 3221
+[24-May-2022 07:16:42 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/formatting.php:3226
+Stack trace:
+#0 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): wp_targeted_link_rel()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(189): WP_Hook->apply_filters()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/post.php(2846): apply_filters()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/post.php(2731): sanitize_post_field()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/post.php(4077): sanitize_post()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php(304): wp_insert_post()
+#6 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/rest-api/class-wp-rest-server.php(1141): WP_REST_Templates_Controller->update_item()
+#7 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/rest-api/class-wp-rest-server.php(988): WP_REST_Server->respond_to_request()
+#8 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch()
+#9 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/rest-api.php(386): WP_REST_Server->serve_request()
+#10 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): rest_api_loaded()
+#11 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#12 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(522): WP_Hook->do_action()
+#13 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp.php(396): do_action_ref_array()
+#14 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp.php(758): WP->parse_request()
+#15 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/functions.php(1310): WP->main()
+#16 /home/eire9d2tu5pr/public_html/comptution.com/wp-blog-header.php(16): wp()
+#17 /home/eire9d2tu5pr/public_html/comptution.com/index.php(17): require('/home/eire9d2tu...')
+#18 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/formatting.php on line 3226
+[24-May-2022 07:16:58 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/formatting.php on line 3221
+[24-May-2022 07:16:58 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/formatting.php:3226
+Stack trace:
+#0 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): wp_targeted_link_rel()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(189): WP_Hook->apply_filters()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/post.php(2846): apply_filters()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/post.php(2731): sanitize_post_field()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/post.php(4077): sanitize_post()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php(304): wp_insert_post()
+#6 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/rest-api/class-wp-rest-server.php(1141): WP_REST_Templates_Controller->update_item()
+#7 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/rest-api/class-wp-rest-server.php(988): WP_REST_Server->respond_to_request()
+#8 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch()
+#9 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/rest-api.php(386): WP_REST_Server->serve_request()
+#10 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): rest_api_loaded()
+#11 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#12 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(522): WP_Hook->do_action()
+#13 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp.php(396): do_action_ref_array()
+#14 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp.php(758): WP->parse_request()
+#15 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/functions.php(1310): WP->main()
+#16 /home/eire9d2tu5pr/public_html/comptution.com/wp-blog-header.php(16): wp()
+#17 /home/eire9d2tu5pr/public_html/comptution.com/index.php(17): require('/home/eire9d2tu...')
+#18 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/formatting.php on line 3226
+[28-May-2022 08:13:34 UTC] PHP Warning:  Undefined variable $logo_height in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 49
+[28-May-2022 08:13:34 UTC] PHP Warning:  Undefined variable $logo_width in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 50
+[28-May-2022 08:13:37 UTC] PHP Warning:  Undefined variable $logo_height in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 49
+[28-May-2022 08:13:37 UTC] PHP Warning:  Undefined variable $logo_width in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 50
+[28-May-2022 08:13:49 UTC] PHP Warning:  Undefined variable $logo_height in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 49
+[28-May-2022 08:13:49 UTC] PHP Warning:  Undefined variable $logo_width in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 50
+[28-May-2022 08:13:49 UTC] PHP Warning:  Undefined variable $logo_height in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 49
+[28-May-2022 08:13:49 UTC] PHP Warning:  Undefined variable $logo_width in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 50
+[28-May-2022 08:13:53 UTC] PHP Warning:  Undefined variable $logo_height in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 49
+[28-May-2022 08:13:53 UTC] PHP Warning:  Undefined variable $logo_width in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 50
+[28-May-2022 08:13:53 UTC] PHP Warning:  Undefined variable $logo_height in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 49
+[28-May-2022 08:13:53 UTC] PHP Warning:  Undefined variable $logo_width in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 50
+[28-May-2022 08:13:53 UTC] PHP Warning:  Undefined variable $logo_height in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 49
+[28-May-2022 08:13:53 UTC] PHP Warning:  Undefined variable $logo_width in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 50
+[28-May-2022 08:13:53 UTC] PHP Warning:  Undefined variable $logo_height in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 49
+[28-May-2022 08:13:53 UTC] PHP Warning:  Undefined variable $logo_width in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 50
+[30-Sep-2022 19:13:36 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/eire9d2tu5pr/public_html/comptution.com/wp-settings.php on line 33
+[30-Sep-2022 19:13:36 UTC] PHP Warning:  require(ABSPATHwp-includes/version.php): failed to open stream: No such file or directory in /home/eire9d2tu5pr/public_html/comptution.com/wp-settings.php on line 33
+[30-Sep-2022 19:13:36 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/version.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/eire9d2tu5pr/public_html/comptution.com/wp-settings.php on line 33
+[30-Sep-2022 19:13:38 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/eire9d2tu5pr/public_html/comptution.com/wp-settings.php on line 33
+[30-Sep-2022 19:13:38 UTC] PHP Warning:  require(ABSPATHwp-includes/version.php): failed to open stream: No such file or directory in /home/eire9d2tu5pr/public_html/comptution.com/wp-settings.php on line 33
+[30-Sep-2022 19:13:38 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/version.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/eire9d2tu5pr/public_html/comptution.com/wp-settings.php on line 33
+[29-Nov-2022 02:31:37 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/eire9d2tu5pr/public_html/comptution.com/wp-settings.php on line 33
+[29-Nov-2022 02:31:37 UTC] PHP Warning:  require(ABSPATHwp-includes/version.php): failed to open stream: No such file or directory in /home/eire9d2tu5pr/public_html/comptution.com/wp-settings.php on line 33
+[29-Nov-2022 02:31:37 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/version.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/eire9d2tu5pr/public_html/comptution.com/wp-settings.php on line 33

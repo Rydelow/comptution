@@ -1,0 +1,4 @@
+[21-Aug-2022 12:46:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/twentytwenty/index.php on line 17

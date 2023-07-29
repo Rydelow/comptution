@@ -1,0 +1,8 @@
+[29-Nov-2022 02:27:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[30-Nov-2022 21:05:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17

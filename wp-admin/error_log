@@ -1,0 +1,186 @@
+[23-May-2022 10:23:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:26:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_editable_by_current_user() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/includes/managers/widgets.php:367
+Stack trace:
+#0 [internal function]: Elementor\Widgets_Manager->ajax_render_widget()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/includes/managers/widgets.php on line 367
+[23-May-2022 10:26:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:26:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[28-May-2022 08:13:34 UTC] PHP Warning:  Undefined variable $logo_height in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 49
+[28-May-2022 08:13:34 UTC] PHP Warning:  Undefined variable $logo_width in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 50
+[28-May-2022 08:13:43 UTC] PHP Warning:  Undefined variable $logo_height in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 49
+[28-May-2022 08:13:43 UTC] PHP Warning:  Undefined variable $logo_width in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 50
+[28-May-2022 08:13:46 UTC] PHP Warning:  Undefined variable $logo_height in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 49
+[28-May-2022 08:13:46 UTC] PHP Warning:  Undefined variable $logo_width in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 50
+[28-May-2022 08:13:47 UTC] PHP Warning:  Undefined variable $logo_height in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 49
+[28-May-2022 08:13:47 UTC] PHP Warning:  Undefined variable $logo_width in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 50
+[28-May-2022 08:13:48 UTC] PHP Warning:  Undefined variable $logo_height in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 49
+[28-May-2022 08:13:48 UTC] PHP Warning:  Undefined variable $logo_width in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 50
+[28-May-2022 08:13:49 UTC] PHP Warning:  Undefined variable $logo_height in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 49
+[28-May-2022 08:13:49 UTC] PHP Warning:  Undefined variable $logo_width in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 50
+[28-May-2022 08:13:51 UTC] PHP Warning:  Undefined variable $logo_height in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 49
+[28-May-2022 08:13:51 UTC] PHP Warning:  Undefined variable $logo_width in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 50
+[28-May-2022 08:13:56 UTC] PHP Warning:  Undefined variable $logo_height in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 49
+[28-May-2022 08:13:56 UTC] PHP Warning:  Undefined variable $logo_width in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 50
